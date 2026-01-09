@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+alembic
+python-jose[cryptography]  # Cho JWT Auth
+passlib[bcrypt]           # Cho Hash password
+python-multipart          # Cho Login Form
+email-validator
